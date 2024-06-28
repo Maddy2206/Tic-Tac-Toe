@@ -9,6 +9,8 @@ Enhance your Tic Tac Toe experience with this Python-based game featuring a uniq
 - **Tkinter GUI:** Attractive graphical user interface built with the Tkinter library.
 
 - **Strategic Gameplay:** Test your strategic thinking in an ever-changing board environment.
+- 
+- - **Dual Controls** Added mouse and keyboard controls (1-9) for both players.
 
 ## Usage
 
