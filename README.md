@@ -2,6 +2,10 @@
 
 Enhance your Tic Tac Toe experience with this Python-based game featuring a unique twist! After a tie, three random tokens are dynamically removed from the board, adding a strategic challenge for players.
 
+## Youtube Link
+
+https://youtu.be/kSBRxCBH4Ds
+
 ## Features
 
 - **Token Removal Twist:** Experience dynamic gameplay with three random tokens removed after a tie.
